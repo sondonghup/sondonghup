@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome! 👋
+
+I'm a first-time nlp engineer  
+
+Bachelor of Computer Engineering and Industrial Management at Kumoh University of Technology
+Winner of 2022 AI Online Competition - NLP Machine Reading Comprehension
+AI Technology Natural Language Processing Expert Training Course Completion
+intern at nlp engineer at TUNiB
 
 <!--
 **sondonghup/sondonghup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
