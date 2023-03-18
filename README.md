@@ -8,6 +8,8 @@ I'm a first-time nlp engineer
 
 ● AI Technology Natural Language Processing Expert Training Course Completion
 
+● Excellence Award of 2022 News bigdata hackathon
+
 ● intern at nlp engineer at TUNiB
 
 [![sondonghup's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondonghup)](https://github.com/anuraghazra/github-readme-stats)
