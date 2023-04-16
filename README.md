@@ -10,6 +10,8 @@ I'm a first-time nlp engineer
 
 ● Excellence Award of 2022 News bigdata hackathon
 
+● AI connect 6th Korean Documentation Summary 
+
 ● intern at nlp engineer at TUNiB
 
 [![sondonghup's GitHub stats](https://github-readme-stats.vercel.app/api?username=sondonghup)](https://github.com/anuraghazra/github-readme-stats)
