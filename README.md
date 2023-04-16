@@ -10,7 +10,7 @@ I'm a first-time nlp engineer
 
 ● Excellence Award of 2022 News bigdata hackathon
 
-● AI connect 6th Korean Documentation Summary 
+● 6th of AI connect Korean Documentation Summary Copetition
 
 ● intern at nlp engineer at TUNiB
 
