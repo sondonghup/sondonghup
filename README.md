@@ -1,22 +1,22 @@
 ### Welcome! I'am acer👋
 
-I'm a NLP engineer
+I'm a NLP engineer<br>
 and also interested in Backend engineer
 
 ### In
-● [2024.11 ~ present] AI Researcher & Backend engineer at RAYO
-● [2024.01 ~ present] AI Researcher at Megastudy Edu
-● [2022.05 ~ 2023.01] intern as NLP engineer at TUNiB
+● [2024.11 ~ present] AI Researcher & Backend engineer at RAYO<br>
+● [2024.01 ~ present] AI Researcher at Megastudy Edu<br>
+● [2022.05 ~ 2023.01] intern as NLP engineer at TUNiB<br>
 
 
 ### Edu
-● [2016.03 ~ 2022.02] Bachelor of Computer Engineering and Industrial Management at Kumoh University of Technology
-● [2022.02 ~ 2022.05] AI Technology Natural Language Processing Expert Training Course Completion
+● [2016.03 ~ 2022.02] Bachelor of Computer Engineering and Industrial Management at Kumoh University of Technology<br>
+● [2022.02 ~ 2022.05] AI Technology Natural Language Processing Expert Training Course Completion<br>
 
 ### Awards
-● Winner of 2022 AI Online Competition - NLP Machine Reading Comprehension
-● Excellence Award of 2022 News bigdata hackathon
-● 6th of AI connect Korean Documentation Summary Copetition
+● Winner of 2022 AI Online Competition - NLP Machine Reading Comprehension<br>
+● Excellence Award of 2022 News bigdata hackathon<br>
+● 6th of AI connect Korean Documentation Summary Copetition<br>
 
 
 
