@@ -1,20 +1,24 @@
-### Welcome! 👋
+### Welcome! I'am acer👋
 
-I'm a first-time nlp engineer  
+I'm a NLP engineer
+and also interested in Backend engineer
 
-● Bachelor of Computer Engineering and Industrial Management at Kumoh University of Technology
+### In
+● [2024.11 ~ present] AI Researcher & Backend engineer at RAYO
+● [2024.01 ~ present] AI Researcher at Megastudy Edu
+● [2022.05 ~ 2023.01] intern as NLP engineer at TUNiB
 
+
+### Edu
+● [2016.03 ~ 2022.02] Bachelor of Computer Engineering and Industrial Management at Kumoh University of Technology
+● [2022.02 ~ 2022.05] AI Technology Natural Language Processing Expert Training Course Completion
+
+### Awards
 ● Winner of 2022 AI Online Competition - NLP Machine Reading Comprehension
-
-● AI Technology Natural Language Processing Expert Training Course Completion
-
 ● Excellence Award of 2022 News bigdata hackathon
-
 ● 6th of AI connect Korean Documentation Summary Copetition
 
-● intern at nlp engineer at TUNiB
 
-● AI Researcher at Megastudy Edu
 
 <!--
 **sondonghup/sondonghup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
